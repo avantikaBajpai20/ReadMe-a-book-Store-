@@ -6,7 +6,8 @@
         "price" : 0,
         "author" : "Eric Carle",
         "category" : "Free",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 4
     },
     {
         "id" : 2,
@@ -15,7 +16,8 @@
         "price" : 0,
         "author" : "Eric Carle",
         "category" : "Free",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 4
     },
     {
         "id" : 3,
@@ -24,7 +26,8 @@
         "price" : 0,
         "author" : "Eric Carle",
         "category" : "Food",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 2
     },
     {
         "id" : 4,
@@ -33,7 +36,8 @@
         "price" : 0,
         "author" : "Eric Carle",
         "category" : "Free",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 5
     },
     {
         "id" : 5,
@@ -42,7 +46,8 @@
         "price" : 0,
         "author" : "Eric Carle",
         "category" : "Free",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 4
     },
     {
         "id" : 6,
@@ -51,7 +56,8 @@
         "price" : 0,
         "author" : "Eric Carle",
         "category" : "Free",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 4
     },
     {
         "id" : 7,
@@ -60,7 +66,8 @@
         "price" : 300,
         "author" : "Eric Carle",
         "category" : "Fictional",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 2
     },
     {
         "id" : 8,
@@ -69,7 +76,8 @@
         "price" : 900,
         "author" : "Eric Carle",
         "category" : "Fictional",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 3
     },
     {
         "id" : 9,
@@ -78,7 +86,8 @@
         "price" : 355,
         "author" : "Eric Carle",
         "category" : "Specialty",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 4
     },
     {
         "id" : 10,
@@ -87,7 +96,8 @@
         "price" : 580,
         "author" : "Eric Carle",
         "category" : "Food",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 2
     },
     {
         "id" : 11,
@@ -96,7 +106,8 @@
         "price" : 450,
         "author" : "Eric Carle",
         "category" : "Fictional",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 5
     },
     {
         "id" : 12,
@@ -105,7 +116,8 @@
         "price" : 680,
         "author" : "Eric Carle",
         "category" : "Specialty",
-        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380"
+        "image": "https://img.freepik.com/free-vector/girl-bench-with-her-pet-back-empty-templat_1308-18812.jpg?t=st=1719665741~exp=1719669341~hmac=f448d3493927ca4e98b7e755ddacd4e4a01165acd037058b311a89887cc75ab0&w=1380",
+        "rating": 4
     }
 
 ]
