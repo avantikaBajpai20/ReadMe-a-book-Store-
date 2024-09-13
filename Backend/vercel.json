@@ -13,7 +13,7 @@
       }
     ],
     "env": {
-      "MONGODBURI": "@mongodburi"
+      "MONGO_URI": "@mongo_uri"
     }
   }
   
